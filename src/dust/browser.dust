@@ -4,6 +4,7 @@
 		<li><a href="#remote" data-toggle="tab"><i class="icon-desktop"></i> Remote</a></li>
 		<li class="active"><a href="#console" data-toggle="tab"><i class="icon-exchange"></i> Console</a></li>
 		<li><a href="#api" data-toggle="tab"><i class="icon-book"></i> API Browser</a></li>
+		<li><a href="#files" data-toggle="tab"><i class="icon-folder-open"></i> File Browser</a></li>
 	</ul>
 
 	<div class="tab-content">
@@ -11,5 +12,6 @@
 		<div class="tab-pane" id="remote">{>"dust.remote" /}</div>
 		<div class="tab-pane active" id="console">{>"dust.console":api /}</div>
 		<div class="tab-pane" id="api">{>"dust.api":api /}</div>
+		<div class="tab-pane" id="files">{>"dust.files":api /}</div>
 	</div>
 </div>

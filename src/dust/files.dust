@@ -1,0 +1,6 @@
+<div class="span3" id="fileTree">
+	{>"dust.files.tree":filetree /}
+</div>
+<div class="span9" id="fileBrowser">
+	{>"dust.files.directory":currentDirectory /}
+</div>
